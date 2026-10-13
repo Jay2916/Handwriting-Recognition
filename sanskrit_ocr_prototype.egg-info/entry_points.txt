@@ -1,0 +1,2 @@
+[console_scripts]
+sanskrit-ocr = sanskrit_ocr.cli:main

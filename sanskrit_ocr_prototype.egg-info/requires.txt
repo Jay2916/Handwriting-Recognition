@@ -1,0 +1,11 @@
+torch<3,>=2.6
+torchvision<1,>=0.21
+Pillow<13,>=11
+numpy<3,>=2
+scipy<2,>=1.13
+scikit-learn<2,>=1.6
+matplotlib<4,>=3.9
+streamlit<2,>=1.65
+
+[dev]
+pytest<10,>=8

@@ -1,0 +1,1618 @@
+[
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_10_yna/23436.png",
+    "true_label": "character_10_yna",
+    "true_character": "ञ",
+    "predicted_label": "character_8_ja",
+    "predicted_character": "ज",
+    "confidence": 0.6673592925071716
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_10_yna/6036.png",
+    "true_label": "character_10_yna",
+    "true_character": "ञ",
+    "predicted_label": "character_24_bha",
+    "predicted_character": "भ",
+    "confidence": 0.5447296500205994
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_10_yna/68797.png",
+    "true_label": "character_10_yna",
+    "true_character": "ञ",
+    "predicted_label": "character_8_ja",
+    "predicted_character": "ज",
+    "confidence": 0.9280234575271606
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/16378.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.9664567708969116
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/19512.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_16_tabala",
+    "predicted_character": "त",
+    "confidence": 0.5940521359443665
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/22105.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_27_ra",
+    "predicted_character": "र",
+    "confidence": 0.9627411365509033
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/45120.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "digit_2",
+    "predicted_character": "२",
+    "confidence": 0.5817874073982239
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/6063.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_27_ra",
+    "predicted_character": "र",
+    "confidence": 0.9900510907173157
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/69244.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.9990118741989136
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/71642.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_14_dhaa",
+    "predicted_character": "ढ",
+    "confidence": 0.46563029289245605
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_11_taamatar/85831.png",
+    "true_label": "character_11_taamatar",
+    "true_character": "ट",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.9547041058540344
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_13_daa/12877.png",
+    "true_label": "character_13_daa",
+    "true_character": "ड",
+    "predicted_label": "digit_9",
+    "predicted_character": "९",
+    "confidence": 0.8247782588005066
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_14_dhaa/12915.png",
+    "true_label": "character_14_dhaa",
+    "true_character": "ढ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.8027351498603821
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_14_dhaa/19699.png",
+    "true_label": "character_14_dhaa",
+    "true_character": "ढ",
+    "predicted_label": "digit_7",
+    "predicted_character": "७",
+    "confidence": 0.9596178531646729
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_14_dhaa/24273.png",
+    "true_label": "character_14_dhaa",
+    "true_character": "ढ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.9598757028579712
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_14_dhaa/58453.png",
+    "true_label": "character_14_dhaa",
+    "true_character": "ढ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.9866881966590881
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_14_dhaa/58460.png",
+    "true_label": "character_14_dhaa",
+    "true_character": "ढ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.96170574426651
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_14_dhaa/69507.png",
+    "true_label": "character_14_dhaa",
+    "true_character": "ढ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.8823204636573792
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_16_tabala/16916.png",
+    "true_label": "character_16_tabala",
+    "true_character": "त",
+    "predicted_label": "character_28_la",
+    "predicted_character": "ल",
+    "confidence": 0.5081903338432312
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_16_tabala/59063.png",
+    "true_label": "character_16_tabala",
+    "true_character": "त",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.9979999661445618
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_16_tabala/6238.png",
+    "true_label": "character_16_tabala",
+    "true_character": "त",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.6974012851715088
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_17_tha/19880.png",
+    "true_label": "character_17_tha",
+    "true_character": "थ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.6244620084762573
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_17_tha/32850.png",
+    "true_label": "character_17_tha",
+    "true_character": "थ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.8469957709312439
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_17_tha/44115.png",
+    "true_label": "character_17_tha",
+    "true_character": "थ",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.8889715671539307
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_17_tha/50295.png",
+    "true_label": "character_17_tha",
+    "true_character": "थ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.8353551626205444
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_17_tha/52299.png",
+    "true_label": "character_17_tha",
+    "true_character": "थ",
+    "predicted_label": "character_6_cha",
+    "predicted_character": "च",
+    "confidence": 0.84379643201828
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_17_tha/80793.png",
+    "true_label": "character_17_tha",
+    "true_character": "थ",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.6755748987197876
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/1131.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_14_dhaa",
+    "predicted_character": "ढ",
+    "confidence": 0.8816774487495422
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/12976.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_14_dhaa",
+    "predicted_character": "ढ",
+    "confidence": 0.9999212026596069
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/22235.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.7506192326545715
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/22241.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_27_ra",
+    "predicted_character": "र",
+    "confidence": 0.9820806980133057
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/54034.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_14_dhaa",
+    "predicted_character": "ढ",
+    "confidence": 0.9919978976249695
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/85332.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9810638427734375
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_18_da/85340.png",
+    "true_label": "character_18_da",
+    "true_character": "द",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.7443776726722717
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/1250.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.597739577293396
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/12980.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.731393575668335
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/20026.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.9693142175674438
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/20058.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_7_chha",
+    "predicted_character": "छ",
+    "confidence": 0.7455146312713623
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/22256.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.9976491332054138
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/33265.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.9468340873718262
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/45985.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.7492582201957703
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/46023.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.9786878824234009
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/46069.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.578590989112854
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/52343.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.8784321546554565
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_19_dha/8051.png",
+    "true_label": "character_19_dha",
+    "true_character": "ध",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.37286698818206787
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_1_ka/68880.png",
+    "true_label": "character_1_ka",
+    "true_character": "क",
+    "predicted_label": "character_22_pha",
+    "predicted_character": "फ",
+    "confidence": 0.9993438124656677
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_20_na/46330.png",
+    "true_label": "character_20_na",
+    "true_character": "न",
+    "predicted_label": "character_25_ma",
+    "predicted_character": "म",
+    "confidence": 0.988376796245575
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_20_na/50376.png",
+    "true_label": "character_20_na",
+    "true_character": "न",
+    "predicted_label": "character_27_ra",
+    "predicted_character": "र",
+    "confidence": 0.4022217392921448
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_20_na/51118.png",
+    "true_label": "character_20_na",
+    "true_character": "न",
+    "predicted_label": "digit_2",
+    "predicted_character": "२",
+    "confidence": 0.7553634643554688
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_20_na/8150.png",
+    "true_label": "character_20_na",
+    "true_character": "न",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.9994045495986938
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_20_na/85372.png",
+    "true_label": "character_20_na",
+    "true_character": "न",
+    "predicted_label": "character_16_tabala",
+    "predicted_character": "त",
+    "confidence": 0.9824350476264954
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_20_na/86019.png",
+    "true_label": "character_20_na",
+    "true_character": "न",
+    "predicted_label": "character_8_ja",
+    "predicted_character": "ज",
+    "confidence": 0.6266252398490906
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_21_pa/17375.png",
+    "true_label": "character_21_pa",
+    "true_character": "प",
+    "predicted_label": "character_6_cha",
+    "predicted_character": "च",
+    "confidence": 0.9758847951889038
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_22_pha/20236.png",
+    "true_label": "character_22_pha",
+    "true_character": "फ",
+    "predicted_label": "character_9_jha",
+    "predicted_character": "झ",
+    "confidence": 0.9603020548820496
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/20334.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.9625015258789062
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/20347.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.7672834396362305
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/22346.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.5616403222084045
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/50421.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.8779882788658142
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/51366.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.35548943281173706
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/51369.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.7693758010864258
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/54579.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.9308190941810608
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/68917.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_31_petchiryakha",
+    "predicted_character": "ष",
+    "confidence": 0.9990710020065308
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/85428.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.895904541015625
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_23_ba/86084.png",
+    "true_label": "character_23_ba",
+    "true_character": "ब",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.998054027557373
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_24_bha/25758.png",
+    "true_label": "character_24_bha",
+    "true_character": "भ",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.8026116490364075
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_24_bha/34967.png",
+    "true_label": "character_24_bha",
+    "true_character": "भ",
+    "predicted_label": "character_25_ma",
+    "predicted_character": "म",
+    "confidence": 0.9818267822265625
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_24_bha/50444.png",
+    "true_label": "character_24_bha",
+    "true_character": "भ",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.4779120087623596
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_24_bha/51488.png",
+    "true_label": "character_24_bha",
+    "true_character": "भ",
+    "predicted_label": "character_9_jha",
+    "predicted_character": "झ",
+    "confidence": 0.991476833820343
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_24_bha/8353.png",
+    "true_label": "character_24_bha",
+    "true_character": "भ",
+    "predicted_label": "character_25_ma",
+    "predicted_character": "म",
+    "confidence": 0.9840733408927917
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_25_ma/51577.png",
+    "true_label": "character_25_ma",
+    "true_character": "म",
+    "predicted_label": "character_24_bha",
+    "predicted_character": "भ",
+    "confidence": 0.7807424068450928
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_26_yaw/26100.png",
+    "true_label": "character_26_yaw",
+    "true_character": "य",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.6738730669021606
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_26_yaw/73951.png",
+    "true_label": "character_26_yaw",
+    "true_character": "य",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.5580458641052246
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_27_ra/17620.png",
+    "true_label": "character_27_ra",
+    "true_character": "र",
+    "predicted_label": "character_11_taamatar",
+    "predicted_character": "ट",
+    "confidence": 0.5886017680168152
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_27_ra/26231.png",
+    "true_label": "character_27_ra",
+    "true_character": "र",
+    "predicted_label": "digit_8",
+    "predicted_character": "८",
+    "confidence": 0.9894352555274963
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_28_la/20516.png",
+    "true_label": "character_28_la",
+    "true_character": "ल",
+    "predicted_label": "character_8_ja",
+    "predicted_character": "ज",
+    "confidence": 0.7837976217269897
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_28_la/82842.png",
+    "true_label": "character_28_la",
+    "true_character": "ल",
+    "predicted_label": "character_8_ja",
+    "predicted_character": "ज",
+    "confidence": 0.9097801446914673
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/13171.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_16_tabala",
+    "predicted_character": "त",
+    "confidence": 0.9077701568603516
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/13175.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.9964810609817505
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/13193.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_16_tabala",
+    "predicted_character": "त",
+    "confidence": 0.6547401547431946
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/22441.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.9462422728538513
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/2709.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.6105660796165466
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/36156.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.5794359445571899
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/36209.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_20_na",
+    "predicted_character": "न",
+    "confidence": 0.8429175019264221
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/47175.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.6044318079948425
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/51747.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.5276108980178833
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/62540.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.9859458804130554
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/62617.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.7341800332069397
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/62737.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.9847705960273743
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/62767.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.9681416749954224
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_29_waw/8579.png",
+    "true_label": "character_29_waw",
+    "true_character": "व",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.8808397054672241
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_2_kha/17748.png",
+    "true_label": "character_2_kha",
+    "true_character": "ख",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.9448729753494263
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_2_kha/17833.png",
+    "true_label": "character_2_kha",
+    "true_character": "ख",
+    "predicted_label": "character_32_patalosaw",
+    "predicted_character": "स",
+    "confidence": 0.9933991432189941
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_2_kha/26612.png",
+    "true_label": "character_2_kha",
+    "true_character": "ख",
+    "predicted_label": "character_32_patalosaw",
+    "predicted_character": "स",
+    "confidence": 0.9437194466590881
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_30_motosaw/17878.png",
+    "true_label": "character_30_motosaw",
+    "true_character": "श",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.6728378534317017
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_30_motosaw/20820.png",
+    "true_label": "character_30_motosaw",
+    "true_character": "श",
+    "predicted_label": "character_34_chhya",
+    "predicted_character": "क्ष",
+    "confidence": 0.5139937996864319
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_30_motosaw/55152.png",
+    "true_label": "character_30_motosaw",
+    "true_character": "श",
+    "predicted_label": "character_24_bha",
+    "predicted_character": "भ",
+    "confidence": 0.8552862405776978
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_30_motosaw/6442.png",
+    "true_label": "character_30_motosaw",
+    "true_character": "श",
+    "predicted_label": "character_32_patalosaw",
+    "predicted_character": "स",
+    "confidence": 0.6006572842597961
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/17904.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.5401947498321533
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/17930.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.5439128279685974
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/2952.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_21_pa",
+    "predicted_character": "प",
+    "confidence": 0.8639294505119324
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/3013.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_21_pa",
+    "predicted_character": "प",
+    "confidence": 0.7930852770805359
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/43250.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_21_pa",
+    "predicted_character": "प",
+    "confidence": 0.7617401480674744
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/47469.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_24_bha",
+    "predicted_character": "भ",
+    "confidence": 0.5516552925109863
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/52681.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.4142245948314667
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/52694.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_21_pa",
+    "predicted_character": "प",
+    "confidence": 0.7767868041992188
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/52696.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.5805805325508118
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_31_petchiryakha/8875.png",
+    "true_label": "character_31_petchiryakha",
+    "true_character": "ष",
+    "predicted_label": "character_21_pa",
+    "predicted_character": "प",
+    "confidence": 0.40634778141975403
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/11655.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_25_ma",
+    "predicted_character": "म",
+    "confidence": 0.5477907657623291
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/20942.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_33_ha",
+    "predicted_character": "ह",
+    "confidence": 0.9480778574943542
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/22525.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.22912952303886414
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/22535.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.742885172367096
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/43350.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_31_petchiryakha",
+    "predicted_character": "ष",
+    "confidence": 0.6458076238632202
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/44385.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_24_bha",
+    "predicted_character": "भ",
+    "confidence": 0.976867139339447
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/6573.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.6127333045005798
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_32_patalosaw/88525.png",
+    "true_label": "character_32_patalosaw",
+    "true_character": "स",
+    "predicted_label": "character_25_ma",
+    "predicted_character": "म",
+    "confidence": 0.6182107925415039
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_33_ha/17993.png",
+    "true_label": "character_33_ha",
+    "true_character": "ह",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.3345167636871338
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_33_ha/52734.png",
+    "true_label": "character_33_ha",
+    "true_character": "ह",
+    "predicted_label": "character_7_chha",
+    "predicted_character": "छ",
+    "confidence": 0.32613861560821533
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_33_ha/55354.png",
+    "true_label": "character_33_ha",
+    "true_character": "ह",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.7135885953903198
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_33_ha/55376.png",
+    "true_label": "character_33_ha",
+    "true_character": "ह",
+    "predicted_label": "character_12_thaa",
+    "predicted_character": "ठ",
+    "confidence": 0.5723819732666016
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_33_ha/6610.png",
+    "true_label": "character_33_ha",
+    "true_character": "ह",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.5502294898033142
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_34_chhya/37641.png",
+    "true_label": "character_34_chhya",
+    "true_character": "क्ष",
+    "predicted_label": "character_24_bha",
+    "predicted_character": "भ",
+    "confidence": 0.9972201585769653
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_34_chhya/37744.png",
+    "true_label": "character_34_chhya",
+    "true_character": "क्ष",
+    "predicted_label": "character_31_petchiryakha",
+    "predicted_character": "ष",
+    "confidence": 0.6299092173576355
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_34_chhya/43426.png",
+    "true_label": "character_34_chhya",
+    "true_character": "क्ष",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.6474669575691223
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_34_chhya/55393.png",
+    "true_label": "character_34_chhya",
+    "true_character": "क्ष",
+    "predicted_label": "character_20_na",
+    "predicted_character": "न",
+    "confidence": 0.7250439524650574
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_34_chhya/63970.png",
+    "true_label": "character_34_chhya",
+    "true_character": "क्ष",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.5260427594184875
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_34_chhya/92208.png",
+    "true_label": "character_34_chhya",
+    "true_character": "क्ष",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.9665158987045288
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_35_tra/13277.png",
+    "true_label": "character_35_tra",
+    "true_character": "त्र",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.9556368589401245
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_35_tra/13280.png",
+    "true_label": "character_35_tra",
+    "true_character": "त्र",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.9850584268569946
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_35_tra/13283.png",
+    "true_label": "character_35_tra",
+    "true_character": "त्र",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.9483179450035095
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_35_tra/50639.png",
+    "true_label": "character_35_tra",
+    "true_character": "त्र",
+    "predicted_label": "character_16_tabala",
+    "predicted_character": "त",
+    "confidence": 0.47801393270492554
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_35_tra/71054.png",
+    "true_label": "character_35_tra",
+    "true_character": "त्र",
+    "predicted_label": "character_16_tabala",
+    "predicted_character": "त",
+    "confidence": 0.9985527396202087
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/18140.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_8_ja",
+    "predicted_character": "ज",
+    "confidence": 0.843261182308197
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/3584.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_32_patalosaw",
+    "predicted_character": "स",
+    "confidence": 0.49353083968162537
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/38045.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_20_na",
+    "predicted_character": "न",
+    "confidence": 0.9767228960990906
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/38171.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_32_patalosaw",
+    "predicted_character": "स",
+    "confidence": 0.7605774998664856
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/52818.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_20_na",
+    "predicted_character": "न",
+    "confidence": 0.7226384282112122
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/64445.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_32_patalosaw",
+    "predicted_character": "स",
+    "confidence": 0.9591686725616455
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_36_gya/75070.png",
+    "true_label": "character_36_gya",
+    "true_character": "ज्ञ",
+    "predicted_label": "character_35_tra",
+    "predicted_character": "त्र",
+    "confidence": 0.991943359375
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_3_ga/21290.png",
+    "true_label": "character_3_ga",
+    "true_character": "ग",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.7363383769989014
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_3_ga/38385.png",
+    "true_label": "character_3_ga",
+    "true_character": "ग",
+    "predicted_label": "character_15_adna",
+    "predicted_character": "ण",
+    "confidence": 0.9344877600669861
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_3_ga/50661.png",
+    "true_label": "character_3_ga",
+    "true_character": "ग",
+    "predicted_label": "character_15_adna",
+    "predicted_character": "ण",
+    "confidence": 0.7220154404640198
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_3_ga/50675.png",
+    "true_label": "character_3_ga",
+    "true_character": "ग",
+    "predicted_label": "character_25_ma",
+    "predicted_character": "म",
+    "confidence": 0.6937441229820251
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/11976.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.643973171710968
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/11984.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.6862778663635254
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/11991.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.8866525888442993
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/18278.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.44457125663757324
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/21320.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.49602359533309937
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/3910.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.811039924621582
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/50678.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.8694939613342285
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/50696.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.9970665574073792
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/51810.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_17_tha",
+    "predicted_character": "थ",
+    "confidence": 0.8459162712097168
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/69969.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.9222072958946228
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_4_gha/85587.png",
+    "true_label": "character_4_gha",
+    "true_character": "घ",
+    "predicted_label": "character_21_pa",
+    "predicted_character": "प",
+    "confidence": 0.9913240671157837
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/21415.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9128338694572449
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/21788.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9907993674278259
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/21796.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9885936975479126
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/22009.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_33_ha",
+    "predicted_character": "ह",
+    "confidence": 0.9699422717094421
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/22027.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.8217687606811523
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/22659.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_7_chha",
+    "predicted_character": "छ",
+    "confidence": 0.3937203288078308
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/22661.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9857176542282104
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/27947.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9278856515884399
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/28029.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.999846339225769
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/38632.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9957595467567444
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/44488.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9894589185714722
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/51826.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9859721660614014
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/55706.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.6044611930847168
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/84564.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.5432292222976685
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/89015.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.5001018643379211
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/9248.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.786706268787384
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/98482.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.8956208825111389
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_5_kna/98488.png",
+    "true_label": "character_5_kna",
+    "true_character": "ङ",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.9726511836051941
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_6_cha/28097.png",
+    "true_label": "character_6_cha",
+    "true_character": "च",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.7215743064880371
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_6_cha/4102.png",
+    "true_label": "character_6_cha",
+    "true_character": "च",
+    "predicted_label": "character_26_yaw",
+    "predicted_character": "य",
+    "confidence": 0.6385555863380432
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/18375.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.9023733735084534
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/21601.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "character_31_petchiryakha",
+    "predicted_character": "ष",
+    "confidence": 0.7450857162475586
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/21618.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "character_4_gha",
+    "predicted_character": "घ",
+    "confidence": 0.8308649659156799
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/22707.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "digit_6",
+    "predicted_character": "६",
+    "confidence": 0.30690476298332214
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/44519.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.5939580202102661
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/49024.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "digit_6",
+    "predicted_character": "६",
+    "confidence": 0.7216879725456238
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/50740.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.8326194882392883
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/51927.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "character_33_ha",
+    "predicted_character": "ह",
+    "confidence": 0.9971491694450378
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/52951.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "digit_6",
+    "predicted_character": "६",
+    "confidence": 0.9889490604400635
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_7_chha/52958.png",
+    "true_label": "character_7_chha",
+    "true_character": "छ",
+    "predicted_label": "digit_6",
+    "predicted_character": "६",
+    "confidence": 0.8446813225746155
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/character_8_ja/9387.png",
+    "true_label": "character_8_ja",
+    "true_character": "ज",
+    "predicted_label": "character_23_ba",
+    "predicted_character": "ब",
+    "confidence": 0.9137529730796814
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_1/39882.png",
+    "true_label": "digit_1",
+    "true_character": "१",
+    "predicted_label": "character_6_cha",
+    "predicted_character": "च",
+    "confidence": 0.6182126402854919
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_1/56132.png",
+    "true_label": "digit_1",
+    "true_character": "१",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.5375587344169617
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_1/66726.png",
+    "true_label": "digit_1",
+    "true_character": "१",
+    "predicted_label": "character_31_petchiryakha",
+    "predicted_character": "ष",
+    "confidence": 0.9291399121284485
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_2/50826.png",
+    "true_label": "digit_2",
+    "true_character": "२",
+    "predicted_label": "digit_3",
+    "predicted_character": "३",
+    "confidence": 0.9042991399765015
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_3/40597.png",
+    "true_label": "digit_3",
+    "true_character": "३",
+    "predicted_label": "character_13_daa",
+    "predicted_character": "ड",
+    "confidence": 0.4699467718601227
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_3/77065.png",
+    "true_label": "digit_3",
+    "true_character": "३",
+    "predicted_label": "character_29_waw",
+    "predicted_character": "व",
+    "confidence": 0.7695857882499695
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_4/77556.png",
+    "true_label": "digit_4",
+    "true_character": "४",
+    "predicted_label": "digit_5",
+    "predicted_character": "५",
+    "confidence": 0.9539814591407776
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_5/5469.png",
+    "true_label": "digit_5",
+    "true_character": "५",
+    "predicted_label": "digit_4",
+    "predicted_character": "४",
+    "confidence": 0.5564460754394531
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_5/67430.png",
+    "true_label": "digit_5",
+    "true_character": "५",
+    "predicted_label": "digit_4",
+    "predicted_character": "४",
+    "confidence": 0.7840303182601929
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_5/67490.png",
+    "true_label": "digit_5",
+    "true_character": "५",
+    "predicted_label": "digit_6",
+    "predicted_character": "६",
+    "confidence": 0.4328679144382477
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_5/86557.png",
+    "true_label": "digit_5",
+    "true_character": "५",
+    "predicted_label": "digit_2",
+    "predicted_character": "२",
+    "confidence": 0.4366818070411682
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_5/86562.png",
+    "true_label": "digit_5",
+    "true_character": "५",
+    "predicted_label": "digit_2",
+    "predicted_character": "२",
+    "confidence": 0.7271669507026672
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_6/53211.png",
+    "true_label": "digit_6",
+    "true_character": "६",
+    "predicted_label": "character_19_dha",
+    "predicted_character": "ध",
+    "confidence": 0.9177325963973999
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_6/5600.png",
+    "true_label": "digit_6",
+    "true_character": "६",
+    "predicted_label": "character_7_chha",
+    "predicted_character": "छ",
+    "confidence": 0.8996518850326538
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_6/99203.png",
+    "true_label": "digit_6",
+    "true_character": "६",
+    "predicted_label": "character_18_da",
+    "predicted_character": "द",
+    "confidence": 0.6319699287414551
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_7/10297.png",
+    "true_label": "digit_7",
+    "true_character": "७",
+    "predicted_label": "digit_0",
+    "predicted_character": "०",
+    "confidence": 0.8245041370391846
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_8/42226.png",
+    "true_label": "digit_8",
+    "true_character": "८",
+    "predicted_label": "character_14_dhaa",
+    "predicted_character": "ढ",
+    "confidence": 0.5851980447769165
+  },
+  {
+    "path": "DevanagariHandwrittenCharacterDataset/Test/digit_9/99487.png",
+    "true_label": "digit_9",
+    "true_character": "९",
+    "predicted_label": "digit_6",
+    "predicted_character": "६",
+    "confidence": 0.8146404027938843
+  }
+]

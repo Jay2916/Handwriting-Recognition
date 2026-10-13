@@ -1,0 +1,49 @@
+{
+  "image_count": 92000,
+  "classes": 46,
+  "dimensions": {
+    "32x32": 92000
+  },
+  "formats": {
+    "PNG": 92000
+  },
+  "modes": {
+    "L": 92000
+  },
+  "class_counts_per_official_split": {
+    "test": {
+      "classes": 46,
+      "min_per_class": 300,
+      "max_per_class": 300
+    },
+    "train": {
+      "classes": 46,
+      "min_per_class": 1700,
+      "max_per_class": 1700
+    }
+  },
+  "corrupt_files": 0,
+  "missing_labels": 0,
+  "exact_pixel_duplicate_pairs": 25,
+  "cross_split_duplicate_groups": 5,
+  "excluded_training_duplicates": 5,
+  "prepared_splits": {
+    "train": 70375,
+    "validation": 7820,
+    "test": 13800
+  },
+  "duplicate_overlap_check": {
+    "train / validation": {
+      "shared_paths": 0,
+      "shared_pixel_hashes": 0
+    },
+    "train / test": {
+      "shared_paths": 0,
+      "shared_pixel_hashes": 0
+    },
+    "validation / test": {
+      "shared_paths": 0,
+      "shared_pixel_hashes": 0
+    }
+  }
+}

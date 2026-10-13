@@ -1,0 +1,37 @@
+{
+  "checkpoint": "transfer_final.pt",
+  "best_epoch": 10,
+  "scope": "Three supplied development examples, not a photo accuracy benchmark.",
+  "samples": [
+    {
+      "file": "ka.jpeg",
+      "expected": "क",
+      "mode": "photo",
+      "crop": null,
+      "prediction": "क",
+      "confidence": 0.44664087891578674
+    },
+    {
+      "file": "ra.jpeg",
+      "expected": "र",
+      "mode": "photo",
+      "crop": null,
+      "prediction": "र",
+      "confidence": 0.999998927116394
+    },
+    {
+      "file": "ra-contrast.jpeg",
+      "expected": "र",
+      "mode": "cropped_photo",
+      "crop": [
+        370,
+        460,
+        755,
+        780
+      ],
+      "prediction": "र",
+      "confidence": 1.0
+    }
+  ],
+  "unsupported_sample": "ru.jpeg represents ऋ, absent from mapping."
+}

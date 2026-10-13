@@ -1,0 +1,36 @@
+{
+  "dataset_path": "data/archive.zip",
+  "output_dir": "outputs",
+  "default_checkpoint": "transfer_final.pt",
+  "mapping_path": "class_mapping.json",
+  "writer_csv": null,
+  "seed": 42,
+  "validation_fraction": 0.1,
+  "test_fraction": 0.15,
+  "exclude_train_test_duplicates": true,
+  "preprocessing": {
+    "size": 32,
+    "polarity": "auto",
+    "target_polarity": "light_on_dark",
+    "denoise": false,
+    "rotation_degrees": 8.0,
+    "shift_fraction": 0.06
+  },
+  "training": {
+    "epochs": 12,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "patience": 4,
+    "num_workers": 0,
+    "device": "auto",
+    "cpu_threads": 4
+  },
+  "transfer": {
+    "head_epochs": 3,
+    "fine_tune_last_blocks": 3,
+    "learning_rate": 0.0001,
+    "input_size": 224,
+    "weights": "IMAGENET1K_V1"
+  }
+}

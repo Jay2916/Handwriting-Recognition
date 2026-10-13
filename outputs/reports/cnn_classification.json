@@ -1,0 +1,291 @@
+{
+  "character_1_ka": {
+    "precision": 1.0,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.998330550918197,
+    "support": 300.0
+  },
+  "character_2_kha": {
+    "precision": 1.0,
+    "recall": 0.99,
+    "f1-score": 0.9949748743718593,
+    "support": 300.0
+  },
+  "character_3_ga": {
+    "precision": 1.0,
+    "recall": 0.9866666666666667,
+    "f1-score": 0.9932885906040269,
+    "support": 300.0
+  },
+  "character_4_gha": {
+    "precision": 0.9601328903654485,
+    "recall": 0.9633333333333334,
+    "f1-score": 0.961730449251248,
+    "support": 300.0
+  },
+  "character_5_kna": {
+    "precision": 1.0,
+    "recall": 0.94,
+    "f1-score": 0.9690721649484536,
+    "support": 300.0
+  },
+  "character_6_cha": {
+    "precision": 0.9900332225913622,
+    "recall": 0.9933333333333333,
+    "f1-score": 0.9916805324459235,
+    "support": 300.0
+  },
+  "character_7_chha": {
+    "precision": 0.9863945578231292,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.9764309764309764,
+    "support": 300.0
+  },
+  "character_8_ja": {
+    "precision": 0.980327868852459,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9884297520661157,
+    "support": 300.0
+  },
+  "character_9_jha": {
+    "precision": 0.9933774834437086,
+    "recall": 1.0,
+    "f1-score": 0.9966777408637874,
+    "support": 300.0
+  },
+  "character_10_yna": {
+    "precision": 1.0,
+    "recall": 0.99,
+    "f1-score": 0.9949748743718593,
+    "support": 300.0
+  },
+  "character_11_taamatar": {
+    "precision": 0.9965870307167235,
+    "recall": 0.9733333333333334,
+    "f1-score": 0.984822934232715,
+    "support": 300.0
+  },
+  "character_12_thaa": {
+    "precision": 0.967741935483871,
+    "recall": 1.0,
+    "f1-score": 0.9836065573770492,
+    "support": 300.0
+  },
+  "character_13_daa": {
+    "precision": 0.9373040752351097,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9660743134087237,
+    "support": 300.0
+  },
+  "character_14_dhaa": {
+    "precision": 0.9832775919732442,
+    "recall": 0.98,
+    "f1-score": 0.9816360601001669,
+    "support": 300.0
+  },
+  "character_15_adna": {
+    "precision": 0.9933774834437086,
+    "recall": 1.0,
+    "f1-score": 0.9966777408637874,
+    "support": 300.0
+  },
+  "character_16_tabala": {
+    "precision": 0.9801980198019802,
+    "recall": 0.99,
+    "f1-score": 0.9850746268656716,
+    "support": 300.0
+  },
+  "character_17_tha": {
+    "precision": 0.9639344262295082,
+    "recall": 0.98,
+    "f1-score": 0.971900826446281,
+    "support": 300.0
+  },
+  "character_18_da": {
+    "precision": 0.9575163398692811,
+    "recall": 0.9766666666666667,
+    "f1-score": 0.966996699669967,
+    "support": 300.0
+  },
+  "character_19_dha": {
+    "precision": 0.9763513513513513,
+    "recall": 0.9633333333333334,
+    "f1-score": 0.9697986577181208,
+    "support": 300.0
+  },
+  "character_20_na": {
+    "precision": 0.9865771812080537,
+    "recall": 0.98,
+    "f1-score": 0.9832775919732442,
+    "support": 300.0
+  },
+  "character_21_pa": {
+    "precision": 0.980327868852459,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9884297520661157,
+    "support": 300.0
+  },
+  "character_22_pha": {
+    "precision": 0.9966666666666667,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9966666666666667,
+    "support": 300.0
+  },
+  "character_23_ba": {
+    "precision": 0.9698996655518395,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.9682804674457429,
+    "support": 300.0
+  },
+  "character_24_bha": {
+    "precision": 0.9800664451827242,
+    "recall": 0.9833333333333333,
+    "f1-score": 0.9816971713810316,
+    "support": 300.0
+  },
+  "character_25_ma": {
+    "precision": 0.980327868852459,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9884297520661157,
+    "support": 300.0
+  },
+  "character_26_yaw": {
+    "precision": 0.9490445859872612,
+    "recall": 0.9933333333333333,
+    "f1-score": 0.9706840390879479,
+    "support": 300.0
+  },
+  "character_27_ra": {
+    "precision": 0.9867549668874173,
+    "recall": 0.9933333333333333,
+    "f1-score": 0.9900332225913622,
+    "support": 300.0
+  },
+  "character_28_la": {
+    "precision": 0.9966555183946488,
+    "recall": 0.9933333333333333,
+    "f1-score": 0.994991652754591,
+    "support": 300.0
+  },
+  "character_29_waw": {
+    "precision": 0.9565217391304348,
+    "recall": 0.9533333333333334,
+    "f1-score": 0.9549248747913188,
+    "support": 300.0
+  },
+  "character_30_motosaw": {
+    "precision": 1.0,
+    "recall": 0.9866666666666667,
+    "f1-score": 0.9932885906040269,
+    "support": 300.0
+  },
+  "character_31_petchiryakha": {
+    "precision": 0.9830508474576272,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.9747899159663865,
+    "support": 300.0
+  },
+  "character_32_patalosaw": {
+    "precision": 0.9798657718120806,
+    "recall": 0.9733333333333334,
+    "f1-score": 0.9765886287625418,
+    "support": 300.0
+  },
+  "character_33_ha": {
+    "precision": 0.9899328859060402,
+    "recall": 0.9833333333333333,
+    "f1-score": 0.9866220735785953,
+    "support": 300.0
+  },
+  "character_34_chhya": {
+    "precision": 0.9966101694915255,
+    "recall": 0.98,
+    "f1-score": 0.9882352941176471,
+    "support": 300.0
+  },
+  "character_35_tra": {
+    "precision": 0.9966216216216216,
+    "recall": 0.9833333333333333,
+    "f1-score": 0.9899328859060402,
+    "support": 300.0
+  },
+  "character_36_gya": {
+    "precision": 1.0,
+    "recall": 0.9766666666666667,
+    "f1-score": 0.9881956155143339,
+    "support": 300.0
+  },
+  "digit_0": {
+    "precision": 0.9966777408637874,
+    "recall": 1.0,
+    "f1-score": 0.9983361064891847,
+    "support": 300.0
+  },
+  "digit_1": {
+    "precision": 1.0,
+    "recall": 0.99,
+    "f1-score": 0.9949748743718593,
+    "support": 300.0
+  },
+  "digit_2": {
+    "precision": 0.9867986798679867,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9917081260364843,
+    "support": 300.0
+  },
+  "digit_3": {
+    "precision": 0.9966555183946488,
+    "recall": 0.9933333333333333,
+    "f1-score": 0.994991652754591,
+    "support": 300.0
+  },
+  "digit_4": {
+    "precision": 0.9933554817275747,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9950083194675541,
+    "support": 300.0
+  },
+  "digit_5": {
+    "precision": 0.9966216216216216,
+    "recall": 0.9833333333333333,
+    "f1-score": 0.9899328859060402,
+    "support": 300.0
+  },
+  "digit_6": {
+    "precision": 0.9801980198019802,
+    "recall": 0.99,
+    "f1-score": 0.9850746268656716,
+    "support": 300.0
+  },
+  "digit_7": {
+    "precision": 0.9966666666666667,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9966666666666667,
+    "support": 300.0
+  },
+  "digit_8": {
+    "precision": 0.9966666666666667,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9966666666666667,
+    "support": 300.0
+  },
+  "digit_9": {
+    "precision": 0.9966666666666667,
+    "recall": 0.9966666666666667,
+    "f1-score": 0.9966666666666667,
+    "support": 300.0
+  },
+  "accuracy": 0.9853623188405797,
+  "macro avg": {
+    "precision": 0.9855605465752469,
+    "recall": 0.9853623188405799,
+    "f1-score": 0.985375515437392,
+    "support": 13800.0
+  },
+  "weighted avg": {
+    "precision": 0.9855605465752466,
+    "recall": 0.9853623188405797,
+    "f1-score": 0.9853755154373919,
+    "support": 13800.0
+  }
+}

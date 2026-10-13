@@ -1,0 +1,1 @@
+Dataset excluded. Place the original Devanagari archive at data/archive.zip only for training/evaluation. The app runs without it.

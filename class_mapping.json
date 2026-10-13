@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "verification": "Folder numbers and names checked against three training examples per class (label_contact_sheet.png); Unicode codepoints checked against the Unicode Devanagari chart. No test examples used for mapping.",
+  "sources": [
+    "https://archive.ics.uci.edu/dataset/389/devanagari+handwritten+character+dataset",
+    "https://www.unicode.org/charts/PDF/U0900.pdf"
+  ],
+  "classes": [
+    {
+      "index": 0,
+      "label": "character_1_ka",
+      "character": "क",
+      "codepoints": [
+        "U+0915"
+      ]
+    },
+    {
+      "index": 1,
+      "label": "character_2_kha",
+      "character": "ख",
+      "codepoints": [
+        "U+0916"
+      ]
+    },
+    {
+      "index": 2,
+      "label": "character_3_ga",
+      "character": "ग",
+      "codepoints": [
+        "U+0917"
+      ]
+    },
+    {
+      "index": 3,
+      "label": "character_4_gha",
+      "character": "घ",
+      "codepoints": [
+        "U+0918"
+      ]
+    },
+    {
+      "index": 4,
+      "label": "character_5_kna",
+      "character": "ङ",
+      "codepoints": [
+        "U+0919"
+      ]
+    },
+    {
+      "index": 5,
+      "label": "character_6_cha",
+      "character": "च",
+      "codepoints": [
+        "U+091A"
+      ]
+    },
+    {
+      "index": 6,
+      "label": "character_7_chha",
+      "character": "छ",
+      "codepoints": [
+        "U+091B"
+      ]
+    },
+    {
+      "index": 7,
+      "label": "character_8_ja",
+      "character": "ज",
+      "codepoints": [
+        "U+091C"
+      ]
+    },
+    {
+      "index": 8,
+      "label": "character_9_jha",
+      "character": "झ",
+      "codepoints": [
+        "U+091D"
+      ]
+    },
+    {
+      "index": 9,
+      "label": "character_10_yna",
+      "character": "ञ",
+      "codepoints": [
+        "U+091E"
+      ]
+    },
+    {
+      "index": 10,
+      "label": "character_11_taamatar",
+      "character": "ट",
+      "codepoints": [
+        "U+091F"
+      ]
+    },
+    {
+      "index": 11,
+      "label": "character_12_thaa",
+      "character": "ठ",
+      "codepoints": [
+        "U+0920"
+      ]
+    },
+    {
+      "index": 12,
+      "label": "character_13_daa",
+      "character": "ड",
+      "codepoints": [
+        "U+0921"
+      ]
+    },
+    {
+      "index": 13,
+      "label": "character_14_dhaa",
+      "character": "ढ",
+      "codepoints": [
+        "U+0922"
+      ]
+    },
+    {
+      "index": 14,
+      "label": "character_15_adna",
+      "character": "ण",
+      "codepoints": [
+        "U+0923"
+      ]
+    },
+    {
+      "index": 15,
+      "label": "character_16_tabala",
+      "character": "त",
+      "codepoints": [
+        "U+0924"
+      ]
+    },
+    {
+      "index": 16,
+      "label": "character_17_tha",
+      "character": "थ",
+      "codepoints": [
+        "U+0925"
+      ]
+    },
+    {
+      "index": 17,
+      "label": "character_18_da",
+      "character": "द",
+      "codepoints": [
+        "U+0926"
+      ]
+    },
+    {
+      "index": 18,
+      "label": "character_19_dha",
+      "character": "ध",
+      "codepoints": [
+        "U+0927"
+      ]
+    },
+    {
+      "index": 19,
+      "label": "character_20_na",
+      "character": "न",
+      "codepoints": [
+        "U+0928"
+      ]
+    },
+    {
+      "index": 20,
+      "label": "character_21_pa",
+      "character": "प",
+      "codepoints": [
+        "U+092A"
+      ]
+    },
+    {
+      "index": 21,
+      "label": "character_22_pha",
+      "character": "फ",
+      "codepoints": [
+        "U+092B"
+      ]
+    },
+    {
+      "index": 22,
+      "label": "character_23_ba",
+      "character": "ब",
+      "codepoints": [
+        "U+092C"
+      ]
+    },
+    {
+      "index": 23,
+      "label": "character_24_bha",
+      "character": "भ",
+      "codepoints": [
+        "U+092D"
+      ]
+    },
+    {
+      "index": 24,
+      "label": "character_25_ma",
+      "character": "म",
+      "codepoints": [
+        "U+092E"
+      ]
+    },
+    {
+      "index": 25,
+      "label": "character_26_yaw",
+      "character": "य",
+      "codepoints": [
+        "U+092F"
+      ]
+    },
+    {
+      "index": 26,
+      "label": "character_27_ra",
+      "character": "र",
+      "codepoints": [
+        "U+0930"
+      ]
+    },
+    {
+      "index": 27,
+      "label": "character_28_la",
+      "character": "ल",
+      "codepoints": [
+        "U+0932"
+      ]
+    },
+    {
+      "index": 28,
+      "label": "character_29_waw",
+      "character": "व",
+      "codepoints": [
+        "U+0935"
+      ]
+    },
+    {
+      "index": 29,
+      "label": "character_30_motosaw",
+      "character": "श",
+      "codepoints": [
+        "U+0936"
+      ]
+    },
+    {
+      "index": 30,
+      "label": "character_31_petchiryakha",
+      "character": "ष",
+      "codepoints": [
+        "U+0937"
+      ]
+    },
+    {
+      "index": 31,
+      "label": "character_32_patalosaw",
+      "character": "स",
+      "codepoints": [
+        "U+0938"
+      ]
+    },
+    {
+      "index": 32,
+      "label": "character_33_ha",
+      "character": "ह",
+      "codepoints": [
+        "U+0939"
+      ]
+    },
+    {
+      "index": 33,
+      "label": "character_34_chhya",
+      "character": "क्ष",
+      "codepoints": [
+        "U+0915",
+        "U+094D",
+        "U+0937"
+      ]
+    },
+    {
+      "index": 34,
+      "label": "character_35_tra",
+      "character": "त्र",
+      "codepoints": [
+        "U+0924",
+        "U+094D",
+        "U+0930"
+      ]
+    },
+    {
+      "index": 35,
+      "label": "character_36_gya",
+      "character": "ज्ञ",
+      "codepoints": [
+        "U+091C",
+        "U+094D",
+        "U+091E"
+      ]
+    },
+    {
+      "index": 36,
+      "label": "digit_0",
+      "character": "०",
+      "codepoints": [
+        "U+0966"
+      ]
+    },
+    {
+      "index": 37,
+      "label": "digit_1",
+      "character": "१",
+      "codepoints": [
+        "U+0967"
+      ]
+    },
+    {
+      "index": 38,
+      "label": "digit_2",
+      "character": "२",
+      "codepoints": [
+        "U+0968"
+      ]
+    },
+    {
+      "index": 39,
+      "label": "digit_3",
+      "character": "३",
+      "codepoints": [
+        "U+0969"
+      ]
+    },
+    {
+      "index": 40,
+      "label": "digit_4",
+      "character": "४",
+      "codepoints": [
+        "U+096A"
+      ]
+    },
+    {
+      "index": 41,
+      "label": "digit_5",
+      "character": "५",
+      "codepoints": [
+        "U+096B"
+      ]
+    },
+    {
+      "index": 42,
+      "label": "digit_6",
+      "character": "६",
+      "codepoints": [
+        "U+096C"
+      ]
+    },
+    {
+      "index": 43,
+      "label": "digit_7",
+      "character": "७",
+      "codepoints": [
+        "U+096D"
+      ]
+    },
+    {
+      "index": 44,
+      "label": "digit_8",
+      "character": "८",
+      "codepoints": [
+        "U+096E"
+      ]
+    },
+    {
+      "index": 45,
+      "label": "digit_9",
+      "character": "९",
+      "codepoints": [
+        "U+096F"
+      ]
+    }
+  ]
+}

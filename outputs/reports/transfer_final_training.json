@@ -1,0 +1,566 @@
+{
+  "schema_version": 1,
+  "model_name": "transfer",
+  "run_name": "transfer_final",
+  "mapping": {
+    "schema_version": 1,
+    "verification": "Folder numbers and names checked against three training examples per class (label_contact_sheet.png); Unicode codepoints checked against the Unicode Devanagari chart. No test examples used for mapping.",
+    "sources": [
+      "https://archive.ics.uci.edu/dataset/389/devanagari+handwritten+character+dataset",
+      "https://www.unicode.org/charts/PDF/U0900.pdf"
+    ],
+    "classes": [
+      {
+        "index": 0,
+        "label": "character_1_ka",
+        "character": "क",
+        "codepoints": [
+          "U+0915"
+        ]
+      },
+      {
+        "index": 1,
+        "label": "character_2_kha",
+        "character": "ख",
+        "codepoints": [
+          "U+0916"
+        ]
+      },
+      {
+        "index": 2,
+        "label": "character_3_ga",
+        "character": "ग",
+        "codepoints": [
+          "U+0917"
+        ]
+      },
+      {
+        "index": 3,
+        "label": "character_4_gha",
+        "character": "घ",
+        "codepoints": [
+          "U+0918"
+        ]
+      },
+      {
+        "index": 4,
+        "label": "character_5_kna",
+        "character": "ङ",
+        "codepoints": [
+          "U+0919"
+        ]
+      },
+      {
+        "index": 5,
+        "label": "character_6_cha",
+        "character": "च",
+        "codepoints": [
+          "U+091A"
+        ]
+      },
+      {
+        "index": 6,
+        "label": "character_7_chha",
+        "character": "छ",
+        "codepoints": [
+          "U+091B"
+        ]
+      },
+      {
+        "index": 7,
+        "label": "character_8_ja",
+        "character": "ज",
+        "codepoints": [
+          "U+091C"
+        ]
+      },
+      {
+        "index": 8,
+        "label": "character_9_jha",
+        "character": "झ",
+        "codepoints": [
+          "U+091D"
+        ]
+      },
+      {
+        "index": 9,
+        "label": "character_10_yna",
+        "character": "ञ",
+        "codepoints": [
+          "U+091E"
+        ]
+      },
+      {
+        "index": 10,
+        "label": "character_11_taamatar",
+        "character": "ट",
+        "codepoints": [
+          "U+091F"
+        ]
+      },
+      {
+        "index": 11,
+        "label": "character_12_thaa",
+        "character": "ठ",
+        "codepoints": [
+          "U+0920"
+        ]
+      },
+      {
+        "index": 12,
+        "label": "character_13_daa",
+        "character": "ड",
+        "codepoints": [
+          "U+0921"
+        ]
+      },
+      {
+        "index": 13,
+        "label": "character_14_dhaa",
+        "character": "ढ",
+        "codepoints": [
+          "U+0922"
+        ]
+      },
+      {
+        "index": 14,
+        "label": "character_15_adna",
+        "character": "ण",
+        "codepoints": [
+          "U+0923"
+        ]
+      },
+      {
+        "index": 15,
+        "label": "character_16_tabala",
+        "character": "त",
+        "codepoints": [
+          "U+0924"
+        ]
+      },
+      {
+        "index": 16,
+        "label": "character_17_tha",
+        "character": "थ",
+        "codepoints": [
+          "U+0925"
+        ]
+      },
+      {
+        "index": 17,
+        "label": "character_18_da",
+        "character": "द",
+        "codepoints": [
+          "U+0926"
+        ]
+      },
+      {
+        "index": 18,
+        "label": "character_19_dha",
+        "character": "ध",
+        "codepoints": [
+          "U+0927"
+        ]
+      },
+      {
+        "index": 19,
+        "label": "character_20_na",
+        "character": "न",
+        "codepoints": [
+          "U+0928"
+        ]
+      },
+      {
+        "index": 20,
+        "label": "character_21_pa",
+        "character": "प",
+        "codepoints": [
+          "U+092A"
+        ]
+      },
+      {
+        "index": 21,
+        "label": "character_22_pha",
+        "character": "फ",
+        "codepoints": [
+          "U+092B"
+        ]
+      },
+      {
+        "index": 22,
+        "label": "character_23_ba",
+        "character": "ब",
+        "codepoints": [
+          "U+092C"
+        ]
+      },
+      {
+        "index": 23,
+        "label": "character_24_bha",
+        "character": "भ",
+        "codepoints": [
+          "U+092D"
+        ]
+      },
+      {
+        "index": 24,
+        "label": "character_25_ma",
+        "character": "म",
+        "codepoints": [
+          "U+092E"
+        ]
+      },
+      {
+        "index": 25,
+        "label": "character_26_yaw",
+        "character": "य",
+        "codepoints": [
+          "U+092F"
+        ]
+      },
+      {
+        "index": 26,
+        "label": "character_27_ra",
+        "character": "र",
+        "codepoints": [
+          "U+0930"
+        ]
+      },
+      {
+        "index": 27,
+        "label": "character_28_la",
+        "character": "ल",
+        "codepoints": [
+          "U+0932"
+        ]
+      },
+      {
+        "index": 28,
+        "label": "character_29_waw",
+        "character": "व",
+        "codepoints": [
+          "U+0935"
+        ]
+      },
+      {
+        "index": 29,
+        "label": "character_30_motosaw",
+        "character": "श",
+        "codepoints": [
+          "U+0936"
+        ]
+      },
+      {
+        "index": 30,
+        "label": "character_31_petchiryakha",
+        "character": "ष",
+        "codepoints": [
+          "U+0937"
+        ]
+      },
+      {
+        "index": 31,
+        "label": "character_32_patalosaw",
+        "character": "स",
+        "codepoints": [
+          "U+0938"
+        ]
+      },
+      {
+        "index": 32,
+        "label": "character_33_ha",
+        "character": "ह",
+        "codepoints": [
+          "U+0939"
+        ]
+      },
+      {
+        "index": 33,
+        "label": "character_34_chhya",
+        "character": "क्ष",
+        "codepoints": [
+          "U+0915",
+          "U+094D",
+          "U+0937"
+        ]
+      },
+      {
+        "index": 34,
+        "label": "character_35_tra",
+        "character": "त्र",
+        "codepoints": [
+          "U+0924",
+          "U+094D",
+          "U+0930"
+        ]
+      },
+      {
+        "index": 35,
+        "label": "character_36_gya",
+        "character": "ज्ञ",
+        "codepoints": [
+          "U+091C",
+          "U+094D",
+          "U+091E"
+        ]
+      },
+      {
+        "index": 36,
+        "label": "digit_0",
+        "character": "०",
+        "codepoints": [
+          "U+0966"
+        ]
+      },
+      {
+        "index": 37,
+        "label": "digit_1",
+        "character": "१",
+        "codepoints": [
+          "U+0967"
+        ]
+      },
+      {
+        "index": 38,
+        "label": "digit_2",
+        "character": "२",
+        "codepoints": [
+          "U+0968"
+        ]
+      },
+      {
+        "index": 39,
+        "label": "digit_3",
+        "character": "३",
+        "codepoints": [
+          "U+0969"
+        ]
+      },
+      {
+        "index": 40,
+        "label": "digit_4",
+        "character": "४",
+        "codepoints": [
+          "U+096A"
+        ]
+      },
+      {
+        "index": 41,
+        "label": "digit_5",
+        "character": "५",
+        "codepoints": [
+          "U+096B"
+        ]
+      },
+      {
+        "index": 42,
+        "label": "digit_6",
+        "character": "६",
+        "codepoints": [
+          "U+096C"
+        ]
+      },
+      {
+        "index": 43,
+        "label": "digit_7",
+        "character": "७",
+        "codepoints": [
+          "U+096D"
+        ]
+      },
+      {
+        "index": 44,
+        "label": "digit_8",
+        "character": "८",
+        "codepoints": [
+          "U+096E"
+        ]
+      },
+      {
+        "index": 45,
+        "label": "digit_9",
+        "character": "९",
+        "codepoints": [
+          "U+096F"
+        ]
+      }
+    ]
+  },
+  "preprocessing": {
+    "size": 32,
+    "polarity": "auto",
+    "target_polarity": "light_on_dark",
+    "denoise": false,
+    "rotation_degrees": 8.0,
+    "shift_fraction": 0.06
+  },
+  "transfer_size": 224,
+  "pretrained_weights": "IMAGENET1K_V1",
+  "split_fingerprint": "6df9ac6a1afd2a4970ac3f677901aeb20215cd6af1beab665f7b3b9e25d8a3f4",
+  "dataset_fingerprint": "1df0ab660691755e086f8bfc9aaa0543d1a78a67b0257a38aca825bab307a501",
+  "train_selection_fingerprint": "1c7ccd36e694b63d23418b43d67c67bcd81d6d81b31042e177ca22f73592995e",
+  "validation_selection_fingerprint": "ccb4b8f4c2c7c43603ff2f37ba1615a5d11cab5bfba6ba3f2d00b093a17d84d8",
+  "experiment_scope": "full_dataset",
+  "train_samples": 70375,
+  "validation_samples": 7820,
+  "seed": 42,
+  "config": {
+    "dataset_path": "data/archive.zip",
+    "output_dir": "outputs",
+    "default_checkpoint": "transfer_final.pt",
+    "mapping_path": "class_mapping.json",
+    "writer_csv": null,
+    "seed": 42,
+    "validation_fraction": 0.1,
+    "test_fraction": 0.15,
+    "exclude_train_test_duplicates": true,
+    "preprocessing": {
+      "size": 32,
+      "polarity": "auto",
+      "target_polarity": "light_on_dark",
+      "denoise": false,
+      "rotation_degrees": 8.0,
+      "shift_fraction": 0.06
+    },
+    "training": {
+      "epochs": 12,
+      "batch_size": 128,
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "patience": 4,
+      "num_workers": 0,
+      "device": "auto",
+      "cpu_threads": 4
+    },
+    "transfer": {
+      "head_epochs": 3,
+      "fine_tune_last_blocks": 3,
+      "learning_rate": 0.0001,
+      "input_size": 224,
+      "weights": "IMAGENET1K_V1"
+    }
+  },
+  "conditions": {
+    "device": "cpu",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "python": "3.12.14",
+    "torch": "2.14.1",
+    "cpu_threads": 4,
+    "batch_size": 128,
+    "num_workers": 0,
+    "reproducibility": "Seeded splits/loaders/augmentations; deterministic kernels where supported, MPS may vary"
+  },
+  "continuation": {
+    "checkpoint": "outputs/checkpoints/transfer_full_savepoint_epoch8.pt",
+    "starting_epoch": 9,
+    "optimizer_reinitialized": true,
+    "scheduler_reinitialized": true,
+    "random_state_reinitialized": true
+  },
+  "best_epoch": 10,
+  "validation_metrics": {
+    "loss": 0.03810486851401194,
+    "accuracy": 0.9878516624040921,
+    "samples": 7820
+  },
+  "epochs_completed": 10,
+  "training_seconds": 20517.553181750234,
+  "timing_includes": "Sum of completed epoch durations across both sessions; excludes interrupted partial epochs, initialization, and between-epoch checkpoint IO.",
+  "status": "finalized_by_user",
+  "stop_reason": "User requested stopping after 10 completed epochs.",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6595898607162557,
+      "train_accuracy": 0.8161420959147424,
+      "validation_loss": 0.2840472800821504,
+      "validation_accuracy": 0.9182864450127878,
+      "learning_rate": 0.001,
+      "seconds": 1957.60211899993
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.24943386630012554,
+      "train_accuracy": 0.9262380106571936,
+      "validation_loss": 0.18245736317675743,
+      "validation_accuracy": 0.9450127877237852,
+      "learning_rate": 0.001,
+      "seconds": 1376.7167278749403
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.18633751960133152,
+      "train_accuracy": 0.9437584369449379,
+      "validation_loss": 0.14555140786501758,
+      "validation_accuracy": 0.9576726342710997,
+      "learning_rate": 0.001,
+      "seconds": 1422.8500408751424
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.09743007546388023,
+      "train_accuracy": 0.9701314387211367,
+      "validation_loss": 0.07203264633840298,
+      "validation_accuracy": 0.9790281329923274,
+      "learning_rate": 0.0001,
+      "seconds": 2312.1142829169985
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.06242692508938893,
+      "train_accuracy": 0.9803765541740675,
+      "validation_loss": 0.059046142579287364,
+      "validation_accuracy": 0.9827365728900256,
+      "learning_rate": 0.0001,
+      "seconds": 2147.27782450011
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.04863193060740908,
+      "train_accuracy": 0.9850657193605684,
+      "validation_loss": 0.05447911634800665,
+      "validation_accuracy": 0.9841432225063939,
+      "learning_rate": 0.0001,
+      "seconds": 2030.690166125074
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.040554345772570236,
+      "train_accuracy": 0.9868277087033748,
+      "validation_loss": 0.047454629889439284,
+      "validation_accuracy": 0.9859335038363172,
+      "learning_rate": 0.0001,
+      "seconds": 2042.981828958029
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.03270207196752645,
+      "train_accuracy": 0.9898969804618117,
+      "validation_loss": 0.041428987490093036,
+      "validation_accuracy": 0.9888746803069054,
+      "learning_rate": 0.0001,
+      "seconds": 2219.2620364171453
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.02783091201224293,
+      "train_accuracy": 0.9910479573712255,
+      "validation_loss": 0.041245050015104166,
+      "validation_accuracy": 0.9879795396419437,
+      "learning_rate": 0.0001,
+      "seconds": 2646.5737671658862
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0222424456086506,
+      "train_accuracy": 0.9930657193605684,
+      "validation_loss": 0.03810486851401194,
+      "validation_accuracy": 0.9878516624040921,
+      "learning_rate": 0.0001,
+      "seconds": 2361.4843879169784
+    }
+  ],
+  "best_validation_accuracy": 0.9878516624040921,
+  "best_validation_loss": 0.03810486851401194,
+  "checkpoint": "outputs/checkpoints/transfer_final.pt"
+}

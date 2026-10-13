@@ -1,0 +1,304 @@
+[
+  {
+    "run_name": "cnn",
+    "model_name": "cnn",
+    "experiment_scope": "full_dataset",
+    "test_accuracy": 0.9853623188405797,
+    "macro_precision": 0.9855605465752469,
+    "macro_recall": 0.9853623188405799,
+    "macro_f1": 0.985375515437392,
+    "test_samples": 13800,
+    "training_samples": 70375,
+    "validation_samples": 7820,
+    "split_fingerprint": "6df9ac6a1afd2a4970ac3f677901aeb20215cd6af1beab665f7b3b9e25d8a3f4",
+    "train_selection_fingerprint": "1c7ccd36e694b63d23418b43d67c67bcd81d6d81b31042e177ca22f73592995e",
+    "validation_selection_fingerprint": "ccb4b8f4c2c7c43603ff2f37ba1615a5d11cab5bfba6ba3f2d00b093a17d84d8",
+    "best_validation_accuracy": 0.9860613810741689,
+    "best_epoch": 11,
+    "epochs_completed": 12,
+    "training_seconds": 929.6801125828642,
+    "test_evaluation_seconds": 4.920027083018795,
+    "checkpoint_bytes": 1452997,
+    "parameters": 360878,
+    "parameter_bytes": 1443512,
+    "latency": {
+      "mean_ms": 0.35472413757815957,
+      "median_ms": 0.35410397686064243,
+      "p95_ms": 0.3670453676022589,
+      "warmup": 10,
+      "repeats": 100,
+      "batch_size": 1,
+      "device": "cpu",
+      "cpu_threads": 4,
+      "includes": "forward pass + device synchronization; excludes decoding, preprocessing, model loading, UI"
+    },
+    "training_conditions": {
+      "device": "cpu",
+      "platform": "macOS-26.6.2-arm64-arm-64bit",
+      "python": "3.12.14",
+      "torch": "2.14.1",
+      "cpu_threads": 4,
+      "batch_size": 128,
+      "num_workers": 0,
+      "reproducibility": "Seeded splits/loaders/augmentations; deterministic kernels where supported, MPS may vary"
+    },
+    "evaluation_device": "cpu",
+    "frequently_confused": [
+      {
+        "count": 16,
+        "true": "character_5_kna",
+        "predicted": "character_13_daa"
+      },
+      {
+        "count": 6,
+        "true": "character_23_ba",
+        "predicted": "character_29_waw"
+      },
+      {
+        "count": 5,
+        "true": "character_4_gha",
+        "predicted": "character_26_yaw"
+      },
+      {
+        "count": 5,
+        "true": "character_31_petchiryakha",
+        "predicted": "character_21_pa"
+      },
+      {
+        "count": 5,
+        "true": "character_19_dha",
+        "predicted": "character_17_tha"
+      },
+      {
+        "count": 5,
+        "true": "character_14_dhaa",
+        "predicted": "character_18_da"
+      },
+      {
+        "count": 4,
+        "true": "character_7_chha",
+        "predicted": "digit_6"
+      },
+      {
+        "count": 4,
+        "true": "character_29_waw",
+        "predicted": "character_12_thaa"
+      },
+      {
+        "count": 4,
+        "true": "character_19_dha",
+        "predicted": "character_4_gha"
+      },
+      {
+        "count": 3,
+        "true": "character_4_gha",
+        "predicted": "character_19_dha"
+      },
+      {
+        "count": 3,
+        "true": "character_36_gya",
+        "predicted": "character_32_patalosaw"
+      },
+      {
+        "count": 3,
+        "true": "character_35_tra",
+        "predicted": "character_23_ba"
+      },
+      {
+        "count": 3,
+        "true": "character_33_ha",
+        "predicted": "character_12_thaa"
+      },
+      {
+        "count": 3,
+        "true": "character_29_waw",
+        "predicted": "character_23_ba"
+      },
+      {
+        "count": 3,
+        "true": "character_29_waw",
+        "predicted": "character_18_da"
+      },
+      {
+        "count": 3,
+        "true": "character_23_ba",
+        "predicted": "character_4_gha"
+      },
+      {
+        "count": 3,
+        "true": "character_18_da",
+        "predicted": "character_14_dhaa"
+      },
+      {
+        "count": 3,
+        "true": "character_17_tha",
+        "predicted": "character_26_yaw"
+      },
+      {
+        "count": 3,
+        "true": "character_11_taamatar",
+        "predicted": "character_12_thaa"
+      },
+      {
+        "count": 2,
+        "true": "digit_5",
+        "predicted": "digit_4"
+      }
+    ]
+  },
+  {
+    "run_name": "transfer_final",
+    "model_name": "transfer",
+    "experiment_scope": "full_dataset",
+    "test_accuracy": 0.9889855072463768,
+    "macro_precision": 0.9890524070417629,
+    "macro_recall": 0.9889855072463768,
+    "macro_f1": 0.9889688798367887,
+    "test_samples": 13800,
+    "training_samples": 70375,
+    "validation_samples": 7820,
+    "split_fingerprint": "6df9ac6a1afd2a4970ac3f677901aeb20215cd6af1beab665f7b3b9e25d8a3f4",
+    "train_selection_fingerprint": "1c7ccd36e694b63d23418b43d67c67bcd81d6d81b31042e177ca22f73592995e",
+    "validation_selection_fingerprint": "ccb4b8f4c2c7c43603ff2f37ba1615a5d11cab5bfba6ba3f2d00b093a17d84d8",
+    "best_validation_accuracy": 0.9878516624040921,
+    "best_epoch": 10,
+    "epochs_completed": 10,
+    "training_seconds": 20517.553181750234,
+    "test_evaluation_seconds": 232.42682216595858,
+    "checkpoint_bytes": 6390829,
+    "parameters": 1565006,
+    "parameter_bytes": 6260024,
+    "latency": {
+      "mean_ms": 30.51511537283659,
+      "median_ms": 30.913916416466236,
+      "p95_ms": 31.77764165448025,
+      "warmup": 10,
+      "repeats": 100,
+      "batch_size": 1,
+      "device": "cpu",
+      "cpu_threads": 4,
+      "includes": "forward pass + device synchronization; excludes decoding, preprocessing, model loading, UI"
+    },
+    "training_conditions": {
+      "device": "cpu",
+      "platform": "macOS-26.6.2-arm64-arm-64bit",
+      "python": "3.12.14",
+      "torch": "2.14.1",
+      "cpu_threads": 4,
+      "batch_size": 128,
+      "num_workers": 0,
+      "reproducibility": "Seeded splits/loaders/augmentations; deterministic kernels where supported, MPS may vary"
+    },
+    "evaluation_device": "cpu",
+    "training_timing_note": "Sum of completed epoch durations across both sessions; excludes interrupted partial epochs, initialization, and between-epoch checkpoint IO.",
+    "continuation": {
+      "checkpoint": "outputs/checkpoints/transfer_full_savepoint_epoch8.pt",
+      "starting_epoch": 9,
+      "optimizer_reinitialized": true,
+      "scheduler_reinitialized": true,
+      "random_state_reinitialized": true
+    },
+    "frequently_confused": [
+      {
+        "count": 5,
+        "true": "character_14_dhaa",
+        "predicted": "character_18_da"
+      },
+      {
+        "count": 4,
+        "true": "character_4_gha",
+        "predicted": "character_26_yaw"
+      },
+      {
+        "count": 4,
+        "true": "character_4_gha",
+        "predicted": "character_19_dha"
+      },
+      {
+        "count": 4,
+        "true": "character_4_gha",
+        "predicted": "character_17_tha"
+      },
+      {
+        "count": 4,
+        "true": "character_23_ba",
+        "predicted": "character_29_waw"
+      },
+      {
+        "count": 4,
+        "true": "character_23_ba",
+        "predicted": "character_20_na"
+      },
+      {
+        "count": 4,
+        "true": "character_17_tha",
+        "predicted": "character_26_yaw"
+      },
+      {
+        "count": 3,
+        "true": "digit_2",
+        "predicted": "digit_3"
+      },
+      {
+        "count": 3,
+        "true": "character_36_gya",
+        "predicted": "character_8_ja"
+      },
+      {
+        "count": 3,
+        "true": "character_36_gya",
+        "predicted": "character_34_chhya"
+      },
+      {
+        "count": 3,
+        "true": "character_35_tra",
+        "predicted": "character_23_ba"
+      },
+      {
+        "count": 3,
+        "true": "character_29_waw",
+        "predicted": "character_21_pa"
+      },
+      {
+        "count": 3,
+        "true": "character_24_bha",
+        "predicted": "character_25_ma"
+      },
+      {
+        "count": 3,
+        "true": "character_19_dha",
+        "predicted": "character_17_tha"
+      },
+      {
+        "count": 2,
+        "true": "character_7_chha",
+        "predicted": "character_33_ha"
+      },
+      {
+        "count": 2,
+        "true": "character_6_cha",
+        "predicted": "character_26_yaw"
+      },
+      {
+        "count": 2,
+        "true": "character_36_gya",
+        "predicted": "character_32_patalosaw"
+      },
+      {
+        "count": 2,
+        "true": "character_29_waw",
+        "predicted": "character_31_petchiryakha"
+      },
+      {
+        "count": 2,
+        "true": "character_29_waw",
+        "predicted": "character_23_ba"
+      },
+      {
+        "count": 2,
+        "true": "character_29_waw",
+        "predicted": "character_16_tabala"
+      }
+    ]
+  }
+]
