@@ -16,7 +16,7 @@ st.markdown("""<style>
 [data-testid="stMetricLabel"] {font-size:1rem;}
 </style>""", unsafe_allow_html=True)
 st.title("Sanskrit OCR")
-st.caption("Upload one handwritten Devanagari character. Drag around it to refine the result.")
+st.caption("Take a photo or upload one handwritten Devanagari character. Drag around it to refine the result.")
 
 try:
     config = load_config(Path(__file__).parent / "config.json")
@@ -70,8 +70,16 @@ result = None
 with editor_column:
     with st.container(border=True):
         st.subheader("Your image")
-        upload = st.file_uploader("Upload a character image", type=["png", "jpg", "jpeg", "bmp", "webp", "tif", "tiff"],
-                                  label_visibility="collapsed")
+        source = st.radio("Image source", ["Upload image", "Take a photo"], horizontal=True,
+                          label_visibility="collapsed", key="image_source")
+        if source == "Take a photo":
+            st.caption("Allow camera access, then take a close photo of the character. You can retake it before cropping.")
+            upload = st.camera_input("Take a character photo", key="character_camera",
+                                     resolution="1080p", label_visibility="collapsed")
+            st.caption("If the camera is unavailable, choose Upload image to select a photo from your phone.")
+        else:
+            upload = st.file_uploader("Upload a character image", type=["png", "jpg", "jpeg", "bmp", "webp", "tif", "tiff"],
+                                      key="character_upload", label_visibility="collapsed")
         if upload is None:
             st.caption("A clear, close photo works best. Keep the whole character and its headline visible.")
         else:

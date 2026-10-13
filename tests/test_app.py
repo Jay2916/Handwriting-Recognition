@@ -86,3 +86,60 @@ def test_visual_crop_updates_prediction_without_an_apply_button(tmp_path, monkey
     assert captured == [((15, 15), expected_mode)]
     assert app.metric[0].value == "क"
     assert not app.checkbox
+
+
+def test_camera_photo_is_cropped_and_source_switch_clears_result(tmp_path, monkeypatch):
+    monkeypatch.setattr("sanskrit_ocr.common.load_config", lambda path: config_for(tmp_path))
+    path = tmp_path / "checkpoints" / "camera.pt"
+    path.parent.mkdir()
+    path.write_bytes(b"fake checkpoint")
+    mapping = load_mapping(APP.parent / "class_mapping.json")
+    captured = []
+    camera_calls = []
+    photo = io.BytesIO()
+    Image.new("RGB", (120, 80), "white").save(photo, format="JPEG")
+    photo.seek(0)
+
+    def camera_input(label, **kwargs):
+        camera_calls.append(kwargs)
+        return photo
+
+    class FakePredictor:
+        metadata = {}
+
+        def __init__(self, *args):
+            pass
+
+        def preview(self, image, mode):
+            return Image.new("L", (32, 32), 0)
+
+        def predict(self, image, mode):
+            captured.append((image.size, mode))
+            rows = [{**entry, "confidence": .8} for entry in mapping["classes"][:3]]
+            return {"prediction": rows[0], "top_three": rows, "experiment_scope": "full_dataset"}
+
+    monkeypatch.setattr("streamlit.camera_input", camera_input)
+    monkeypatch.setattr("sanskrit_ocr.predict.Predictor", FakePredictor)
+    monkeypatch.setattr("sanskrit_ocr.crop_widget.visual_crop", lambda image: (10, 10, 60, 70))
+    app = AppTest.from_file(str(APP), default_timeout=30).run()
+    assert not camera_calls
+    app.radio[0].set_value("Take a photo").run()
+    assert not app.exception and not app.error
+    assert camera_calls[0]["resolution"] == "1080p"
+    assert captured == [((50, 60), "cropped_photo")]
+    assert app.metric[0].value == "क"
+    assert not app.file_uploader
+    app.radio[0].set_value("Upload image").run()
+    assert not app.exception and not app.metric
+    assert len(app.file_uploader) == 1
+
+
+def test_camera_waits_for_capture(tmp_path, monkeypatch):
+    monkeypatch.setattr("sanskrit_ocr.common.load_config", lambda path: config_for(tmp_path))
+    path = tmp_path / "checkpoints" / "empty_camera.pt"
+    path.parent.mkdir()
+    path.write_bytes(b"fake checkpoint")
+    monkeypatch.setattr("streamlit.camera_input", lambda *args, **kwargs: None)
+    app = AppTest.from_file(str(APP), default_timeout=30).run()
+    app.radio[0].set_value("Take a photo").run()
+    assert not app.exception and not app.error and not app.metric
